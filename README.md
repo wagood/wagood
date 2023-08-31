@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a php/js developer, mostly working around Laravel. Also I have experience in developing applications using Craft CMS, Prestashop, Phalcon, Vue, JQuery.
+
 <!--
 **wagood/wagood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
